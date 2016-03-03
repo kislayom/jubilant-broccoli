@@ -1,0 +1,7 @@
+2016-03-03 22:33:47,021 INFO  [Thread-0] starting user agent [myAddress: 172.17.0.1, sipPort: 6060, userpart: 1001, domain: 192.168.5.6]
+2016-03-03 22:33:47,085 INFO  [Thread-0] added datagram socket 172.17.0.1:6060/UDP
+2016-03-03 22:33:47,086 INFO  [Thread-0] added 172.17.0.1:6060/UDP: net.kislay.goasat.sip.transport.UdpMessageReceiver@5abe12e3 to message receivers
+2016-03-03 22:33:57,130 DEBUG [Thread-0] SM z9hG4bKjPw5zaYPx|REGISTER [NonInviteClientTransactionStateInit -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:33:57,632 DEBUG [Transaction timer] SM z9hG4bKjPw5zaYPx|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:33:58,632 DEBUG [Transaction timer] SM z9hG4bKjPw5zaYPx|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:34:00,633 DEBUG [Transaction timer] SM z9hG4bKjPw5zaYPx|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState

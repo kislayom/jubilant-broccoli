@@ -1,0 +1,48 @@
+2016-03-03 22:33:57,131 SENT to 192.168.5.6/5060 [Thread-0]
+
+REGISTER sip:192.168.5.6 SIP/2.0
+Via: SIP/2.0/UDP 172.17.0.1:6060;rport;branch=z9hG4bKjPw5zaYPx
+Max-Forwards: 70
+To: <sip:1001@192.168.5.6>
+From: <sip:1001@192.168.5.6>;tag=daI3oKuF
+Call-ID: HMNxeFF2-1457024627088@172.17.0.1
+CSeq: 1 REGISTER
+Contact: <sip:1001@172.17.0.1:6060;transport=UDP>
+
+
+2016-03-03 22:33:57,632 SENT to 192.168.5.6/5060 [Transaction timer]
+
+REGISTER sip:192.168.5.6 SIP/2.0
+Via: SIP/2.0/UDP 172.17.0.1:6060;rport;branch=z9hG4bKjPw5zaYPx
+Max-Forwards: 70
+To: <sip:1001@192.168.5.6>
+From: <sip:1001@192.168.5.6>;tag=daI3oKuF
+Call-ID: HMNxeFF2-1457024627088@172.17.0.1
+CSeq: 1 REGISTER
+Contact: <sip:1001@172.17.0.1:6060;transport=UDP>
+
+
+2016-03-03 22:33:58,633 SENT to 192.168.5.6/5060 [Transaction timer]
+
+REGISTER sip:192.168.5.6 SIP/2.0
+Via: SIP/2.0/UDP 172.17.0.1:6060;rport;branch=z9hG4bKjPw5zaYPx
+Max-Forwards: 70
+To: <sip:1001@192.168.5.6>
+From: <sip:1001@192.168.5.6>;tag=daI3oKuF
+Call-ID: HMNxeFF2-1457024627088@172.17.0.1
+CSeq: 1 REGISTER
+Contact: <sip:1001@172.17.0.1:6060;transport=UDP>
+
+
+2016-03-03 22:34:00,633 SENT to 192.168.5.6/5060 [Transaction timer]
+
+REGISTER sip:192.168.5.6 SIP/2.0
+Via: SIP/2.0/UDP 172.17.0.1:6060;rport;branch=z9hG4bKjPw5zaYPx
+Max-Forwards: 70
+To: <sip:1001@192.168.5.6>
+From: <sip:1001@192.168.5.6>;tag=daI3oKuF
+Call-ID: HMNxeFF2-1457024627088@172.17.0.1
+CSeq: 1 REGISTER
+Contact: <sip:1001@172.17.0.1:6060;transport=UDP>
+
+

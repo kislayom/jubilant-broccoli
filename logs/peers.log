@@ -1,0 +1,16 @@
+2016-03-03 22:30:22,606 INFO  [Thread-0] starting user agent [myAddress: 172.17.0.1, sipPort: 6060, userpart: 1001, domain: 192.168.5.6]
+2016-03-03 22:30:22,619 INFO  [Thread-0] added datagram socket 172.17.0.1:6060/UDP
+2016-03-03 22:30:22,620 INFO  [Thread-0] added 172.17.0.1:6060/UDP: net.kislay.goasat.sip.transport.UdpMessageReceiver@2d3347d to message receivers
+2016-03-03 22:30:32,656 DEBUG [Thread-0] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateInit -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:33,157 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:34,158 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:36,159 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:40,160 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:44,161 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:48,162 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:52,163 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:30:56,164 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:31:00,164 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:31:04,165 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTrying] setState
+2016-03-03 22:31:04,657 DEBUG [Transaction timer] SM z9hG4bKtHh0Z5THm|REGISTER [NonInviteClientTransactionStateTrying -> NonInviteClientTransactionStateTerminated] setState
+2016-03-03 22:31:04,658 DEBUG [Transaction timer] image url: file:/home/kislay/Documents/SIPROBOTPHN/build/classes/net/kislay/goasat/gui/red.png

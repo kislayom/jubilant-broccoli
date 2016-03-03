@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Peers SIP TestNG suite">
+  <test name="Syntax - Encoding">
+    <packages>
+      <package name="net.sourceforge.peers.sip.syntaxencoding">
+        <include name=".*TestNG"/>
+      </package>
+    </packages>
+  </test>
+  <test name="Transport">
+    <packages>
+      <package name="net.sourceforge.peers.sip.transport">
+        <include name=".*TestNG"/>
+      </package>
+    </packages>
+  </test>
+  <test name="Transaction">
+    <packages>
+      <package name="net.sourceforge.peers.sip.transaction">
+        <include name=".*TestNG"/>
+      </package>
+    </packages>
+  </test>
+  <test name="Transaction User">
+    <packages>
+      <package name="net.sourceforge.peers.sip.transactionuser">
+        <include name=".*TestNG"/>
+      </package>
+    </packages>
+  </test>
+</suite>
